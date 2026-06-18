@@ -59,8 +59,11 @@ $
 }
 ```
 
+<img width="612" height="543" alt="image" src="https://github.com/user-attachments/assets/b05e6b06-5377-4c97-9abe-719c2eb66802" />
+
 ### Kibana URL: http://localhost:5601/app/home#/
 
+<img width="1918" height="1015" alt="image" src="https://github.com/user-attachments/assets/ab2bf35f-add4-4f37-b62a-53f99c169c36" />
 
 ### View logs
 
